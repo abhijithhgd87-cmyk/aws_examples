@@ -1,0 +1,5 @@
+snowflake-connector-python
+pandas
+pyarrow
+pytest
+python-dotenv

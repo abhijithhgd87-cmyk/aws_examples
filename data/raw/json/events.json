@@ -1,0 +1,3 @@
+{"event_id": "e1", "user": "jane.doe@example.com", "action": "login", "ts": "2026-02-15T12:00:00Z"}
+{"event_id": "e2", "user": "john.smith@example.org", "action": "purchase", "ts": "2026-02-16T14:30:00Z"}
+{"event_id": "e3", "user": "aisha.khan@example.com", "action": "logout", "ts": "2026-02-17T09:10:00Z"}
